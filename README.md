@@ -1,17 +1,23 @@
 [Main file]
+
+
 1
+
 main.tf
 providers.tf (helm)
 configmap.tf
 secret.tf
 
+
 (apiserver) deployment.tf
 (apiserver) service.tf
+
 
 mysql-deployment.tf
 mysql-service.tf
 
 2
+
 modules/kube-prometheus
 - main.tf
 - namespaces.tf
