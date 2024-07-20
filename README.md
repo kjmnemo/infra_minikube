@@ -26,5 +26,9 @@ modules/kube-prometheus
 3
 /metrics-server
 
+
+
 [Infrastructure diagram]
+
+
 ![k8s](https://github.com/user-attachments/assets/3b39acf1-8af0-4adb-839f-62ee322c1e48)
